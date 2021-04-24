@@ -26,7 +26,7 @@ Vagrant.configure("2") do |config|
         
         # master.vm.network "private_network", ip: "172.16.16.100"
 
-        master.vm.synced_folder "./DATABASE", "/vagrant_data"
+        master.vm.synced_folder "../DATABASE", "/vagrant_data"
 
         master.vm.provision "shell",
             # inline: "bash <(wget -qO- https://raw.githubusercontent.com/kausgang/Kubernetes-Template/main/VAGRANT-auto-setup-WINDOWS/setup-master.sh)"
