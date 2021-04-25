@@ -1,67 +1,64 @@
 {
-  "year": " 1913",
+  "year": "1913",
   "Albania": [
-    "<i>First Balkan War</i>: The Treaty of London ended the war.",
-    "<i>Second Balkan War</i>: The war began.",
-    "<i>Second Balkan War</i>: The Treaty of Bucharest ended the war and recognized an independent Albanian state ruled by a constitutional monarchy."
+    "<i>First Balkan War</i>: The Treaty of London ended the war.\n",
+    "<i>Second Balkan War</i>: The war began.\n",
+    "<i>Second Balkan War</i>: The Treaty of Bucharest ended the war and recognized an independent Albanian state ruled by a constitutional monarchy.\n"
   ],
   "Australia": [
-    "The foundation stone for the city of Canberra is put in place",
-    "Canberra is officially named as the Capital of Australia.",
-    "<i>Australian federal election, 1913</i>: Joseph Cook elected as the 6th Prime Minister of Australia."
+    "The foundation stone for the city of Canberra is put in place\n",
+    "Canberra is officially named as the Capital of Australia.\n",
+    "<i>1913 Australian federal election</i>: Joseph Cook elected as the 6th Prime Minister of Australia.\n"
   ],
   "Bangladesh": [
-    "Establishment of Ahmadiyya Muslim Community Bangladesh in Brahmanbaria"
+    "Establishment of Ahmadiyya Muslim Community Bangladesh in Brahmanbaria\n"
   ],
   "Belgium": [
-    "Exposition universelle et internationale (1913), World&apos;s Fair in Ghent."
+    "Exposition universelle et internationale (1913), World's Fair in Ghent.\n"
   ],
   "Brazil": [
-    "Roosevelt&#x2013;Rondon Scientific Expedition: Following a speaking tour in Brazil and Argentina, former US President Theodore Roosevelt meets up with C&#xE2;ndido Rondon to embark on a joint exploration of the &quot;River of Doubt&quot;."
+    "Roosevelt–Rondon Scientific Expedition: Following a speaking tour in Brazil and Argentina, former US President Theodore Roosevelt meets up with Cândido Rondon to embark on a joint exploration of the \"River of Doubt\".\n"
+  ],
+  "China": [
+    "<i>Assassination of Song Jiaoren</i>: Song Jiaoren, founder of the KMT was assassinated, most likely by then-president Yuan Shikai.\n"
   ],
   "Cuba": [
-    "The presidency of Mario Garc&#xED;a Menocal begins."
+    "The presidency of Mario García Menocal begins.\n"
   ],
   "East_Timor": [
-    "The Portuguese and Dutch agreed to a formal division of the island."
+    "The Portuguese and Dutch agreed to a formal division of the island.\n"
   ],
   "France": [
-    "Raymond Poincar&#xE9; began his term as president of France."
+    "Raymond Poincaré began his term as president of France.\n"
   ],
   "Germany": [
-    "<i>Saverne Affair</i>: Two local Saverne papers reported on offensive comments made by a local Prussian military officer."
+    "<i>Saverne Affair</i>: Two local Saverne papers reported on offensive comments made by a local Prussian military officer.\n"
   ],
   "Haiti": [
-    "President Auguste dies during a visit to northern Haiti",
-    "Senator Michel Oreste is elected president by the Constituent Assembly"
+    "President Auguste dies during a visit to northern Haiti\n",
+    "Senator Michel Oreste is elected president by the Constituent Assembly\n"
   ],
   "India": [
-    "Gadar Party formed.",
-    "Rabindranath Tagore won Nobel Prize in Literature"
+    "Gadar Party formed.\n",
+    "Rabindranath Tagore won Nobel Prize in Literature\n"
   ],
   "Ireland": [
-    "A Dublin businessman, William Martin Murphy, fired forty workers he suspected of belonging to the Irish Transport and General Workers&apos; Union (ITGWU).",
-    "<i>Dublin Lockout</i>: The ITGWU went on strike."
+    "A Dublin businessman, William Martin Murphy, fires forty workers he suspects belong to the Irish Transport and General Workers' Union (ITGWU). A resulting strike and related civil unrest, the Dublin Lockout, lasts from August 1913 to January 1914.\n"
   ],
   "Philippine": [
+    "Battle of Bud Bagsak\n",
     "Newton W. Gilbert appointed as acting Civil Governor (1913)",
-    "Francis Burton Harrison appointed as Civil Governor (1913&#x2013;1921)"
+    "Francis Burton Harrison appointed as Civil Governor (1913–1921)"
+  ],
+  "Singapore": [
+    "The Singapore Harbour board was set up.\n"
   ],
   "Slovenia": [
-    "Celje is electrified. Westen&apos;s dishes factory uses electricity in industry.",
-    "Ivan Cankar in Ljubljana gives a speech <i>Slovenes and Yugoslavs</i> for the socialist society Vzajemnost (<i>Mutuality</i>) about Slovenes to unite politically but not culturally with other South Slavs and Yugoslavism."
+    "Celje is electrified. Westen's dishes factory uses electricity in industry.\n",
+    "Ivan Cankar in Ljubljana gives a speech <i>Slovenes and Yugoslavs</i> for the socialist society Vzajemnost (<i>Mutuality</i>) about Slovenes to unite politically but not culturally with other South Slavs and Yugoslavism.\n"
   ],
   "Taiwan": [
-    "Japanese forces engage in a subjugation campaign against aboriginals on the east coast",
-    "Hakka people rebel in Miaoli and are suppressed"
-  ],
-  "USA": [
-    "The Sixteenth Amendment to the United States Constitution, establishing an income tax, was ratified.",
-    "The Armory Show opened in New York City, introducing American and European modern art to the American public.",
-    "The Seventeenth Amendment to the United States Constitution, establishing direct election of Senators, was ratified.",
-    "After mass civilian casualties in the Battle of Bud Bagsak, the Moro&apos;s surrendered their rebellion, ending the Philippine&#x2013;American War.",
-    "The Underwood Tariff was signed into law.",
-    "Henry Ford developed the modern assembly line.",
-    "The Federal Reserve Act was signed into law; establishing the Federal Reserve System."
+    "Japanese forces engage in a campaign bring aboriginals on the east coast under government control \n",
+    "Hakka people rebel in Miaoli and are defeated \n"
   ]
 }

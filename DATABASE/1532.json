@@ -1,26 +1,33 @@
 {
   "year": "1532",
   "Armenia": [
-    "Ottoman-Safavid War (1532-1555) commences."
+    "Ottoman-Safavid War (1532-1555) commences.\n"
   ],
   "Belgium": [
-    "Charles V issues decree establishing protocols and procedure of the reorganized Council of Luxembourg."
+    "Charles V issues decree establishing protocols and procedure of the reorganized Council of Luxembourg.\n"
   ],
   "Brazil": [
-    "S&#xE3;o Vicente is established as the first permanent Portuguese settlement in Brazil."
+    "São Vicente is established as the first permanent Portuguese settlement in Brazil.\n"
   ],
   "Chile": [
-    "Francisco Pizarro arrives in Peru from Panam&#xE1;. He begins the Conquest of the Inca Empire and captures Emperor Atahualpa during the Battle of Cajamarca."
+    "Francisco Pizarro arrives in Peru from Panamá. He begins the Conquest of the Inca Empire and captures Emperor Atahualpa during the Battle of Cajamarca.\n",
+    "A possible date for the battle of the Maule between Incas and Mapuches.\n"
   ],
   "Cuba": [
-    "The first slave rebellion is crushed."
+    "The first slave rebellion is crushed.\n"
   ],
   "France": [
-    "Francis I issued an edict incorporating Brittany into the kingdom of France."
+    "Francis I issued an edict incorporating Brittany into the kingdom of France.\n"
+  ],
+  "India": [
+    "Ahoms under king Suhungmung defeat Turbak Khan of the Bengal Sultanate in Battle of Hatbor.\n"
   ],
   "Peru": [
-    "<i>Conquistador</i> Francisco Pizarro landed on the northern coast of Peru.",
-    "Pizarro arrived at Cajamarca.",
-    "<i>Battle of Cajamarca</i> The Spanish army took the Inca emperor Atahualpa prisoner, marking the end of his empire."
+    "<i>Conquistador</i> Francisco Pizarro landed on the northern coast of Peru.\n",
+    "Pizarro arrived at Cajamarca.\n",
+    "<i>Battle of Cajamarca</i> The Spanish army took the Inca emperor Atahualpa prisoner, marking the end of his empire.\n"
+  ],
+  "Slovenia": [
+    "The Siege of Maribor ends in a defensive victory.\n"
   ]
 }

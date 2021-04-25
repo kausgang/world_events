@@ -1,15 +1,15 @@
 {
   "year": "1577",
   "China": [
-    "The Wanshou Temple was built."
+    "The Wanshou Temple was built.\n"
   ],
   "Ireland": [
-    "The Annals of the Four Masters record that the Great Comet of 1577 &quot;was wondered at by all universally&quot;."
+    "The <i>Annals of the Four Masters</i> records that the Great Comet of 1577 \"was wondered at by all universally\".\n"
+  ],
+  "Philippine": [
+    "Arrival of the Franciscans\n"
   ],
   "Sweden": [
-    "Eric XIV dies in imprisonment, most likely murdered."
-  ],
-  "USA": [
-    "The Spanish built the short-lived San Marcos fort."
+    "Eric XIV dies in imprisonment\n"
   ]
 }

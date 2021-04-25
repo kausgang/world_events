@@ -1,13 +1,14 @@
 {
   "year": "260",
   "China": [
-    "<i>Coup of Cao Mao</i>: Cao Mao was murdered in a failed attempt to kill the regent Sima Zhao at his residence.",
-    "Cao Cao&apos;s grandson Cao Huan was made emperor of Cao Wei."
-  ],
-  "France": [
-    "Foundation of the Gallic Empire by Postumus, comprising Gaul, Hispania, Germania and Britannia which separated from the Roman Empire following the Crisis of the Third Century."
+    "<i>Coup of Cao Mao</i>: Cao Mao was murdered in a failed attempt to kill the regent Sima Zhao at his residence.\n",
+    "Cao Cao's grandson Cao Huan was made emperor of Cao Wei.\n"
   ],
   "Germany": [
-    "The Gallic Empire makes Cologne their capital city."
+    "The Romans make Cologne their capital city.\n"
+  ],
+  "Italy": [
+    "Valerian was taken prisoner by the Sasanian Empire during truce negotiations.\n",
+    "The general Postumus was declared ruler of Rome in the Gallic Empire.\n"
   ]
 }

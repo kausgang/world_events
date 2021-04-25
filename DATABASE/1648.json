@@ -1,37 +1,40 @@
 {
   "year": "1648",
   "Armenia": [
-    "Major earthquake in Van."
+    "Major earthquake in Van.\n"
   ],
   "Belgium": [
-    "Peace of M&#xFC;nster ends the war with the Dutch Republic."
+    "Peace of Münster ends the war with the Dutch Republic.\n"
   ],
   "Brazil": [
-    "First Battle of Guararapes: the Portuguese army defeats the Dutch army in the northeast of Brazil."
+    "First Battle of Guararapes: the Portuguese army defeats the Dutch army in the northeast of Brazil.\n"
   ],
   "France": [
-    "<i>Fronde</i>: Cardinal Mazarin ordered the arrest of the leaders of the <i>parlement</i> of Paris, which provoked widespread rioting.",
-    "<i>Thirty Years&apos; War</i>: The Peace of Westphalia ended the war with France obtaining the better bargain, and annexing eastern territories."
+    "<i>Fronde</i>: Cardinal Mazarin ordered the arrest of the leaders of the <i>parlement</i> of Paris, which provoked widespread rioting.\n",
+    "<i>Thirty Years' War</i>: The Peace of Westphalia ended the war with France obtaining the better bargain, and annexing eastern territories.\n"
   ],
   "Germany": [
-    "<i>Thirty Years&apos; War</i>: The Peace of Westphalia was concluded, ending the war and granting Switzerland and the Netherlands independence from the Holy Roman Empire."
+    "<i>Thirty Years' War</i>: The Peace of Westphalia was concluded, ending the war and granting Switzerland and the Netherlands independence from the Holy Roman Empire.\n"
   ],
   "Poland": [
-    "Khmelnytsky Uprising begins",
-    "Death of W&#x142;adys&#x142;aw IV Waza",
-    "Election of John II Casimir Vasa"
+    "Khmelnytsky Uprising begins\n",
+    "Death of Władysław IV Waza\n",
+    "Election of John II Casimir Vasa\n"
   ],
   "Russia": [
-    "<i>Khmelnytsky Uprising</i>: A Polish szlachta, Bohdan Khmelnytsky, leads the Cossacks of the Zaporizhian Sich against the Polish Crown.",
-    "<i>Salt Riot</i>: Upset over the introduction of a salt tax, the townspeople launched a rebellion in Moscow.",
-    "<i>Salt Riot</i>: A group of nobles demanded a <i>zemsky sobor</i> on behalf of the rebellion.",
-    "<i>Salt Riot</i>: Many of the rebellion&apos;s leaders were executed.",
-    "<i>Khmelnytsky Uprising</i>: Khmelnytsky entered the Ukrainian capital, Kiev."
+    "<i>Khmelnytsky Uprising</i>: A Polish szlachta, Bohdan Khmelnytsky, leads the Cossacks of the Zaporizhian Sich against the Polish Crown.\n",
+    "<i>Salt Riot</i>: Upset over the introduction of a salt tax, the townspeople launched a rebellion in Moscow.\n",
+    "<i>Salt Riot</i>: A group of nobles demanded a <i>zemsky sobor</i> on behalf of the rebellion.\n",
+    "<i>Salt Riot</i>: Many of the rebellion's leaders were executed.\n",
+    "<i>Khmelnytsky Uprising</i>: Khmelnytsky entered the Ukrainian capital, Kiev.\n"
   ],
   "Spain": [
-    "The Treaty of Westphalia was signed."
+    "The Treaty of Westphalia was signed. Habsburg supremacy was curtailed. Recognition of the independence of the Dutch Republic by the Spanish Empire. Recognition of Spanish sovereignty of Southern Netherlands and Luxembourg by the Dutch Republic.\n"
   ],
   "Sweden": [
-    "The Thirty Years&apos; War ends, with Sweden among the winners. The Peace of Westphalia grants Sweden the provinces of Western Pomerania, Wismar, and the bishoprics of Bremen-Verden."
+    "Thirty Years' War ends, with Sweden among the winners; Peace of Westphalia grants Sweden the provinces of Western Pomerania, Wismar, and the bishoprics of Bremen-Verden\n"
+  ],
+  "Switzerland": [
+    "The Treaty of Westphalia ends the Thirty Years War and contains a special provision on Switzerland, endorsing the process begun in 1499. With this treaty, European powers recognise the Swiss Confederation as an independent state.\n"
   ]
 }

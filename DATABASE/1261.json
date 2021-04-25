@@ -1,10 +1,13 @@
 {
   "year": "1261",
+  "Belgium": [
+    "Henry III, Duke of Brabant, dies; succeeded by Henry IV\n"
+  ],
   "China": [
-    "Yang Hui first drew Pascal&apos;s triangle."
+    "Yang Hui first drew Pascal's triangle.\n"
   ],
   "Spain": [
-    "<i>Siege of Jerez (1261)</i>: Castile and Granada laid siege to Jerez de la Frontera.",
-    "<i>Siege of Jerez (1261)</i>: The citizens of Jerez de la Frontera agreed to resume tribute payments to Castile."
+    "<i>Siege of Jerez (1261)</i>: Castile and Granada laid siege to Jerez de la Frontera.\n",
+    "<i>Siege of Jerez (1261)</i>: The citizens of Jerez de la Frontera agreed to resume tribute payments to Castile.\n"
   ]
 }

@@ -1,9 +1,13 @@
 {
   "year": "180",
   "China": [
-    "Ding Huan invented the rotary fan."
+    "Ding Huan invented the rotary fan.\n"
+  ],
+  "Italy": [
+    "Marcus died.\n",
+    "<i>Antonine Plague</i>: The pandemic ended.\n"
   ],
   "Japan": [
-    "Civil war of Wa ends, bringing shaman queen Himiko to power in Yamatai state somewhere in western Japan"
+    "The Civil war of Wa ends, bringing Shaman queen Himiko to power in Yamatai state somewhere in either Northern Kyushu or Central Honshu.\n"
   ]
 }

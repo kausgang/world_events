@@ -1,28 +1,31 @@
 {
   "year": "1613",
   "Argentina": [
-    "University of C&#xF3;rdoba founded by Jesuits"
+    "University of Córdoba founded by Jesuits\n"
   ],
   "Burma": [
-    "Anaukpetlun captures Portuguese Syriam"
+    "Anaukpetlun captures Portuguese Syriam\n"
+  ],
+  "Chile": [
+    "Jesuits from Chiloé reach Guayaneco Archipelago for the first time.\n"
   ],
   "Germany": [
-    "King James I of England, Ireland and Scotland married his daughter Elizabeth Stuart to Elector Frederick V of the Palatinate, leader of the Protestant Union."
+    "King James I of England, Ireland and Scotland married his daughter Elizabeth Stuart to Elector Frederick V of the Palatinate, leader of the Protestant Union.\n"
   ],
   "Indinesia": [
-    "The Dutch expel the Portuguese from their Solor fort."
+    "The Dutch expel the Portuguese from their Solor fort.\n"
   ],
   "Lebanon": [
-    "Fakhr ad-Din II is exiled to Tuscany after his inability to defeat the army of Ahmad al Hafiz, the governor of Damascus."
-  ],
-  "Malaysia": [
-    "Triangular war: War between Portuguese in Malacca, Aceh Sultanate and Johor Empire."
+    "Fakhr ad-Din II is exiled to Tuscany after his inability to defeat the army of Ahmad al Hafiz, the governor of Damascus.\n"
   ],
   "Russia": [
-    "<i>Ingrian War</i>: Sweden invaded Muscovy.",
-    "A <i>zemsky sobor</i> elected Michael Romanov, a grandson of Ivan the Terrible&apos;s brother-in-law, the tsar of Muscovy."
+    "<i>Ingrian War</i>: Sweden invaded Russia.\n",
+    "A <i>zemsky sobor</i> elected Michael Romanov, a grandson of Ivan the Terrible's brother-in-law, the tsar of Russia.\n"
+  ],
+  "Singapore": [
+    "Portuguese burn down the trading outpost at the mouth of Singapore River.\n"
   ],
   "Sweden": [
-    "The Treaty of Kn&#xE4;red is signed, ending the Kalmar War. Sweden is obligated to pay the &#xC4;lvsborg Ransom of one million rixdollars for the return of the fortress of &#xC4;lvsborg."
+    "Treaty of Knäred ends Kalmar War: Sweden obligated to pay Älvsborg Ransom of one million rixdollars for return of fortress of Älvsborg\n"
   ]
 }

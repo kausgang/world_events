@@ -1,13 +1,16 @@
 {
   "year": "1190",
   "Albania": [
-    "The Principality of Arbanon was created."
+    "The Principality of Arbanon was created.\n"
+  ],
+  "Belgium": [
+    "Godfrey III, Count of Louvain dies; succeeded by Henry I, Duke of Brabant\n"
   ],
   "Burma": [
-    "The word <i>Mranma</i> first appears in Burmese"
+    "The word <i>Mranma</i> first appears in Burmese\n"
   ],
   "Germany": [
-    "A field hospital was established at Acre which would become the nucleus of the Teutonic Order.",
-    "The <i>Nibelungenlied</i> was written."
+    "A field hospital was established at Acre which would become the nucleus of the Teutonic Order.\n",
+    "The <i>Nibelungenlied</i> was written.\n"
   ]
 }

@@ -1,15 +1,18 @@
 {
   "year": "1139",
+  "Belgium": [
+    "Godfrey I, Count of Louvain, dies; succeeded by Godfrey II\n"
+  ],
   "China": [
-    "Chongzong died.",
-    "Chongzong&apos;s son Emperor Renzong of Western Xia became emperor of Western Xia."
+    "Chongzong died.\n",
+    "Chongzong's son Emperor Renzong of Western Xia became emperor of Western Xia.\n"
   ],
   "Russia": [
-    "Yaropolk died. His younger brother Viacheslav followed him, but in March Viacheslav was overthrown by his cousin, prince of Chernigov, Vsevolod."
+    "Yaropolk died. His younger brother Viacheslav followed him, but in March Viacheslav was overthrown by his cousin, prince of Chernigov, Vsevolod.\n"
   ],
   "Spain": [
-    "<i>Siege of Oreja</i>: Alfonso the Emperor laid siege to the Almoravid castle at Colmenar de Oreja.",
-    "<i>Battle of Ourique</i>: Afonso defeated an Almoravid force deep inside Almoravid territory at Ourique. His soldiers proclaimed him king of Portugal.",
-    "<i>Siege of Oreja</i>: The Almoravid garrison surrendered."
+    "<i>Siege of Oreja</i>: Alfonso the Emperor laid siege to the Almoravid castle at Colmenar de Oreja.\n",
+    "<i>Battle of Ourique</i>: Afonso defeated an Almoravid force deep inside Almoravid territory at Ourique.  His soldiers proclaimed him king of Portugal.\n",
+    "<i>Siege of Oreja</i>: The Almoravid garrison surrendered.\n"
   ]
 }

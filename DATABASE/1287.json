@@ -1,18 +1,23 @@
 {
   "year": "1287",
   "Burma": [
-    "The Pagan Empire acknowledges suzerainty of the Mongol Empire",
-    "Wareru declares independence and founds Kingdom of Ramanya",
-    "King Narathihapate is assassinated"
+    "The Pagan Empire acknowledges suzerainty of the Mongol Empire\n",
+    "Wareru declares independence and founds Kingdom of Ramanya\n",
+    "King Narathihapate is assassinated\n"
   ],
   "China": [
-    "The Zhongdu-born Rabban Bar Sauma left for Europe as an ambassador of Arghun, the <i>khan</i> of the Ilkhanate.",
-    "<i>Battle of Pagan</i>: Yuan forces captured the Pagan capital Bagan."
+    "The Zhongdu-born Rabban Bar Sauma left for Europe as an ambassador of Arghun, the <i>khan</i> of the Ilkhanate.\n",
+    "<i>Battle of Pagan</i>: Yuan forces captured the Pagan capital Bagan.\n"
   ],
   "England": [
-    "Rhys ap Maredudd led a revolt against English rule in Wales."
+    "Rhys ap Maredudd led a revolt against English rule in Wales.\n"
+  ],
+  "Spain": [
+    "Alfonso the Liberal conquered Menorca and annexed it to the Kingdom of Majorca, dissolving its autonomous government.\n",
+    "<i>Battle of the Counts</i>: A Sicilian-Aragonese fleet defeated a superior Angevin force at Naples, breaking the latter's attempted invasion of Sicily.\n",
+    "The Union of Aragon, a political organization of nobles and townspeople in Aragon, won the Privilege of the Union, a devolution of many royal powers to the Aragonese nobility, from Alfonso the Liberal.\n"
   ],
   "Vietnam": [
-    "<i>Mongol invasions of Vietnam</i>: The Mongol navy was destroyed, forcing the army, left without provisions, to begin its retreat from &#x110;&#x1EA1;i Vi&#x1EC7;t."
+    "<i>Mongol invasions of Vietnam</i>: The Mongol navy was destroyed, forcing the army, left without provisions, to begin its retreat from Đại Việt.\n"
   ]
 }

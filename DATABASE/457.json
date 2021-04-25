@@ -1,10 +1,16 @@
 {
   "year": "457",
   "France": [
-    "Merovech died. His son Childeric I succeeded him as king.",
-    "The Domain of Soissons, last Roman province of Gaul, was created with Aegidius as <i>magister militum</i> of the rump state."
+    "Merovech died.  His son Childeric I succeeded him as king.\n",
+    "The Domain of Soissons, last Roman province of Gaul, was created with Aegidius as <i>magister militum</i> of the rump state.\n"
   ],
   "Germany": [
-    "Merovech died. He was succeeded as king of the Salian Franks by his son Childeric I."
+    "Merovech died.  He was succeeded as king of the Salian Franks by his son Childeric I.\n"
+  ],
+  "Italy": [
+    "Avitus died.\n",
+    "The Byzantine <i>augustus</i> Marcian died.\n",
+    "The Byzantine <i>augustus</i> Leo I the Thracian appointed Majorian <i>Magister militum</i> in the west.\n",
+    "The army acclaimed Majorian <i>augustus</i> of the Western Roman Empire.\n"
   ]
 }
