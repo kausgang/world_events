@@ -45,11 +45,14 @@ This project takes help of three other projects.
 3. Collate Timelines
 - Collate all the country's JSON files to create a master database.
   - https://github.com/kausgang/collate_wiki_timeline
-  
+
 
 ## Legalities
 
 Wikipedia pages are publicly available and it's perfectly legal to extract content off it's page. Since this project and the data it collects are not being used for commercial purposes, it does not violate any law.
 
 
+## Uses
 
+See a sample project created on this database
+https://github.com/kausgang/world_at_a_glance
